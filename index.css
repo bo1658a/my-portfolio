@@ -11,6 +11,7 @@ h1 {
     font-family: sans-serif;
   }
   ul {
+    list-style-type: none;
     line-height: 50px;
   }
   
